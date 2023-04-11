@@ -309,4 +309,9 @@
     .background-top {
         width: 98%;
     }
+
+    .label-switch-custom:before {
+        top: 25px !important;
+        left: -26px !important;
+    }
 }
